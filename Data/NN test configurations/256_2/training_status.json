@@ -1,0 +1,113 @@
+{
+    "level_complexity": {
+        "lesson_num": 5
+    },
+    "AdvancedNavigation": {
+        "checkpoints": [
+            {
+                "steps": 1999964,
+                "file_path": "results\\256_2\\AdvancedNavigation\\AdvancedNavigation-1999964.onnx",
+                "reward": 1.9426731756013795,
+                "creation_time": 1681230229.6574178,
+                "auxillary_file_paths": [
+                    "results\\256_2\\AdvancedNavigation\\AdvancedNavigation-1999964.pt"
+                ]
+            },
+            {
+                "steps": 2999951,
+                "file_path": "results\\256_2\\AdvancedNavigation\\AdvancedNavigation-2999951.onnx",
+                "reward": 1.9734000095073134,
+                "creation_time": 1681231370.6820483,
+                "auxillary_file_paths": [
+                    "results\\256_2\\AdvancedNavigation\\AdvancedNavigation-2999951.pt"
+                ]
+            },
+            {
+                "steps": 3999949,
+                "file_path": "results\\256_2\\AdvancedNavigation\\AdvancedNavigation-3999949.onnx",
+                "reward": 2.2583999999798836,
+                "creation_time": 1681232515.209764,
+                "auxillary_file_paths": [
+                    "results\\256_2\\AdvancedNavigation\\AdvancedNavigation-3999949.pt"
+                ]
+            },
+            {
+                "steps": 4999998,
+                "file_path": "results\\256_2\\AdvancedNavigation\\AdvancedNavigation-4999998.onnx",
+                "reward": 2.0393333345496405,
+                "creation_time": 1681233655.1518881,
+                "auxillary_file_paths": [
+                    "results\\256_2\\AdvancedNavigation\\AdvancedNavigation-4999998.pt"
+                ]
+            },
+            {
+                "steps": 5999994,
+                "file_path": "results\\256_2\\AdvancedNavigation\\AdvancedNavigation-5999994.onnx",
+                "reward": 2.455000003282395,
+                "creation_time": 1681234812.7161133,
+                "auxillary_file_paths": [
+                    "results\\256_2\\AdvancedNavigation\\AdvancedNavigation-5999994.pt"
+                ]
+            },
+            {
+                "steps": 6999955,
+                "file_path": "results\\256_2\\AdvancedNavigation\\AdvancedNavigation-6999955.onnx",
+                "reward": 1.4983999729156494,
+                "creation_time": 1681235972.0240479,
+                "auxillary_file_paths": [
+                    "results\\256_2\\AdvancedNavigation\\AdvancedNavigation-6999955.pt"
+                ]
+            },
+            {
+                "steps": 7999983,
+                "file_path": "results\\256_2\\AdvancedNavigation\\AdvancedNavigation-7999983.onnx",
+                "reward": 3.074000010790769,
+                "creation_time": 1681237158.0057003,
+                "auxillary_file_paths": [
+                    "results\\256_2\\AdvancedNavigation\\AdvancedNavigation-7999983.pt"
+                ]
+            },
+            {
+                "steps": 8999961,
+                "file_path": "results\\256_2\\AdvancedNavigation\\AdvancedNavigation-8999961.onnx",
+                "reward": 2.0648333337546014,
+                "creation_time": 1681238355.8114305,
+                "auxillary_file_paths": [
+                    "results\\256_2\\AdvancedNavigation\\AdvancedNavigation-8999961.pt"
+                ]
+            },
+            {
+                "steps": 9999957,
+                "file_path": "results\\256_2\\AdvancedNavigation\\AdvancedNavigation-9999957.onnx",
+                "reward": 2.8881473694437823,
+                "creation_time": 1681239550.0737557,
+                "auxillary_file_paths": [
+                    "results\\256_2\\AdvancedNavigation\\AdvancedNavigation-9999957.pt"
+                ]
+            },
+            {
+                "steps": 10000021,
+                "file_path": "results\\256_2\\AdvancedNavigation\\AdvancedNavigation-10000021.onnx",
+                "reward": 2.8881473694437823,
+                "creation_time": 1681239550.1273859,
+                "auxillary_file_paths": [
+                    "results\\256_2\\AdvancedNavigation\\AdvancedNavigation-10000021.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10000021,
+            "file_path": "results\\256_2\\AdvancedNavigation.onnx",
+            "reward": 2.8881473694437823,
+            "creation_time": 1681239550.1273859,
+            "auxillary_file_paths": [
+                "results\\256_2\\AdvancedNavigation\\AdvancedNavigation-10000021.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1+cu117"
+    }
+}
