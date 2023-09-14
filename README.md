@@ -1,2 +1,2 @@
-# DRL_Unity
- Deep reinforcement learning for AI Navigation in Video Games
+# Stage-2
+ Dissertation Stage 2
