@@ -3,6 +3,8 @@
 
 #### -- Author: Tim Deville
 #### -- Project Status: [Completed]
+#### -- Video Demonstration: TBC
+#### -- [Project Poster](/ProjectPoster.png "Project Poster")
 
 ## Project Intro/Objective
 This project aims to create a generalised AI agent using deep reinforcement learning that is capable of nagivating complex procedurally generated indoor environments. The goal of this project is to explore the potential benefits of deploying such an agent into modern video games, improving the behavioural characteristics and self-navigtation ability of video game NPCs.
